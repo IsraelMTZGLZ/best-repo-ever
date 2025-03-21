@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Gearset__c</fullName>
+    <fullName>ApexHours__c</fullName>
     <defaultValue>false</defaultValue>
-    <description>Gearset</description>
-    <label>Gearset</label>
+    <description>This is a new field creeated by developer1</description>
+    <label>ApexHours</label>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Checkbox</type>
 </CustomField>
